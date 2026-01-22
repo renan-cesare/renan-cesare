@@ -1,22 +1,51 @@
-# Renan De Cesare
+<h1 align="center">Renan De Cesare</h1>
 
-🚀 Automação, dados, risco & compliance no mercado financeiro  
-🐍 Python | 📊 Data | ⚙️ Automation
+<p align="center">
+Construo sistemas de automação em Python para operações financeiras, risco & compliance.<br>
+Foco em pipelines de dados, auditoria automática e monitoramento de operações.
+</p>
+
+<p align="center">
+🐍 Python &nbsp;|&nbsp; 📊 Data &nbsp;|&nbsp; ⚙️ Automation
+</p>
 
 ---
 
-## 📊 Linguagens mais usadas
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renan-cesare&layout=compact&theme=dark)
+## 📊 Estatísticas
 
-## 📈 Estatísticas do GitHub
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=renan-cesare&show_icons=true&theme=dark)
+<table>
+<tr>
+<td>
+
+### Linguagens mais usadas
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renan-cesare&layout=compact&theme=dark"/>
+
+</td>
+<td>
+
+### GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=renan-cesare&show_icons=true&theme=dark"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🧠 Projetos principais
 
-- 🔹 **brokerage-notes-compliance-monitor** — Pipeline de PDFs de notas de corretagem, consolidação, histórico e flags de compliance  
-- 🔹 **outlook-structured-operations-audit-automation** — Sistema de envio, rastreio e cobrança automática de auditorias  
-- 🔹 **outlook-performance-audit-automation** — Auditoria de performance e histórico via Outlook + Excel  
+- 🔹 **brokerage-notes-compliance-monitor**  
+  Pipeline em Python para extração de PDFs de notas de corretagem (B3), consolidação de operações, geração de histórico em Excel e aplicação de flags de compliance.
+
+- 🔹 **outlook-structured-operations-audit-automation**  
+  Sistema de envio de auditorias por Outlook, captura de IDs, histórico em Excel e cobrança automática de respostas.
+
+- 🔹 **outlook-performance-audit-automation**  
+  Automação de auditoria de performance de carteiras com envio em massa, controle de histórico e follow-up automático.
 
 ---
+
+## 📫 Contato
+
+- LinkedIn: (coloque seu link aqui)
+- Email: (seu email aqui)
