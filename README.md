@@ -61,5 +61,8 @@ Automação de auditoria de performance de carteiras com controle de histórico 
 
 ## 📫 Contato
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/renan-paulo-de-cesare-6513a51bb/)
-- 📧 [Email](mailto:renandecesare1@gmail.com)
+## 📫 Contato
+
+- 💼 LinkedIn: [Clique aqui para acessar meu perfil](https://www.linkedin.com/in/renan-paulo-de-cesare-6513a51bb/)
+- 📧 Email: [renandecesare1@gmail.com](mailto:renandecesare1@gmail.com)
+
