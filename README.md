@@ -47,5 +47,5 @@ Foco em pipelines de dados, auditoria automática e monitoramento de operações
 
 ## 📫 Contato
 
-- LinkedIn: (coloque seu link aqui)
-- Email: (seu email aqui)
+- LinkedIn: https://www.linkedin.com/in/renan-paulo-de-cesare-6513a51bb/
+- Email: renandecesare1@gmail.com
