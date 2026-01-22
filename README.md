@@ -1,16 +1,22 @@
-## Hi there 👋
+# Renan De Cesare
 
-<!--
-**renan-cesare/renan-cesare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Automação, dados, risco & compliance no mercado financeiro  
+🐍 Python | 📊 Data | ⚙️ Automation
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Linguagens mais usadas
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renan-cesare&layout=compact&theme=dark)
+
+## 📈 Estatísticas do GitHub
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=renan-cesare&show_icons=true&theme=dark)
+
+---
+
+## 🧠 Projetos principais
+
+- 🔹 **brokerage-notes-compliance-monitor** — Pipeline de PDFs de notas de corretagem, consolidação, histórico e flags de compliance  
+- 🔹 **outlook-structured-operations-audit-automation** — Sistema de envio, rastreio e cobrança automática de auditorias  
+- 🔹 **outlook-performance-audit-automation** — Auditoria de performance e histórico via Outlook + Excel  
+
+---
