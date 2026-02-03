@@ -37,16 +37,41 @@ Automação de auditoria de performance de carteiras com controle de histórico 
 
 ## 📊 Stack e atividade
 
+<!-- Stack e atividade -->
 <table>
-<tr>
-<td align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=renan-cesare&theme=github_dark&v=3"/>
-</td>
-<td align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=renan-cesare&theme=github_dark&v=3"/>
-</td>
-</tr>
+  <tr>
+    <!-- STATS (principal + fallback) -->
+    <td align="center" width="50%">
+      <!-- Principal (Vercel oficial) -->
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=renan-cesare&show_icons=true&theme=dark&hide_border=true&v=1"
+        alt="GitHub Stats"
+      />
+      <!-- Fallback (se o Vercel estiver pausado/fora) -->
+      <br/>
+      <img
+        src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=renan-cesare&show_icons=true&theme=dark&hide_border=true&v=1"
+        alt="GitHub Stats (fallback)"
+      />
+    </td>
+
+    <!-- TOP LANGS (principal + fallback) -->
+    <td align="center" width="50%">
+      <!-- Principal (Vercel oficial) -->
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=renan-cesare&layout=compact&theme=dark&hide_border=true&langs_count=10&v=1"
+        alt="Most Used Languages"
+      />
+      <!-- Fallback (se o Vercel estiver pausado/fora) -->
+      <br/>
+      <img
+        src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=renan-cesare&layout=compact&theme=dark&hide_border=true&langs_count=10&v=1"
+        alt="Most Used Languages (fallback)"
+      />
+    </td>
+  </tr>
 </table>
+
 
 ---
 
