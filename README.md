@@ -55,23 +55,6 @@ Automação de auditoria de performance de carteiras com controle de histórico 
       />
     </td>
 
-    <!-- TOP LANGS (principal + fallback) -->
-    <td align="center" width="50%">
-      <!-- Principal (Vercel oficial) -->
-      <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=renan-cesare&layout=compact&theme=dark&hide_border=true&langs_count=10&v=1"
-        alt="Most Used Languages"
-      />
-      <!-- Fallback (se o Vercel estiver pausado/fora) -->
-      <br/>
-      <img
-        src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=renan-cesare&layout=compact&theme=dark&hide_border=true&langs_count=10&v=1"
-        alt="Most Used Languages (fallback)"
-      />
-    </td>
-  </tr>
-</table>
-
 
 ---
 
