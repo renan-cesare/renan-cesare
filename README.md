@@ -40,10 +40,10 @@ Automação de auditoria de performance de carteiras com controle de histórico 
 <table>
 <tr>
 <td align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renan-cesare&layout=compact&theme=dark&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renan-cesare&layout=compact&theme=dark&hide_border=true&cache_seconds=1800"/>
 </td>
 <td align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=renan-cesare&show_icons=true&theme=dark&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=renan-cesare&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800"/>
 </td>
 </tr>
 </table>
