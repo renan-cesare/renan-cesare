@@ -37,7 +37,16 @@ Automação de auditoria de performance de carteiras com controle de histórico 
 
 ## 📊 Stack e atividade
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=renan-cesare)
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=renan-cesare&show_icons=true&theme=dark&hide_border=true"
+    height="165"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=renan-cesare&layout=compact&theme=dark&hide_border=true&langs_count=8"
+    height="165"
+  />
+</p>
 
 
 ---
