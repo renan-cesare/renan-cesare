@@ -37,7 +37,13 @@ Automação de auditoria de performance de carteiras com controle de histórico 
 
 ## 📊 Stack e atividade
 
-## 📊 Stack e atividade
+<p align="center">
+  <img
+    height="200"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=renan-cesare&theme=github_dark"
+    alt="Profile Details"
+  />
+</p>
 
 <p align="center">
   <img
@@ -47,21 +53,21 @@ Automação de auditoria de performance de carteiras com controle de histórico 
   />
   <img
     height="190"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=renan-cesare&theme=github_dark&utcOffset=-3"
-    alt="Commits (UTC -3)"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=renan-cesare&layout=compact&theme=github_dark&hide_border=true&langs_count=10&cache_seconds=86400"
+    alt="Top Languages"
   />
 </p>
 
 <p align="center">
   <img
     height="190"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=renan-cesare&layout=compact&theme=github_dark&hide_border=true&langs_count=10&cache_seconds=86400"
-    alt="Top Languages"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=renan-cesare&theme=github_dark&utcOffset=-3"
+    alt="Commits (UTC -3)"
   />
   <img
     height="190"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=renan-cesare&theme=github_dark"
-    alt="Profile Details"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/pull-requests?username=renan-cesare&theme=github_dark"
+    alt="Pull Requests"
   />
 </p>
 
