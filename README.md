@@ -45,7 +45,7 @@ Automação de auditoria de performance de carteiras com controle de histórico 
   />
   <img
     height="165"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=renan-cesare&theme=github_dark"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=renan-cesare&layout=compact&theme=github_dark&hide_border=true&langs_count=8"
     alt="Top Languages"
   />
   <img
