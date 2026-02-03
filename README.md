@@ -37,8 +37,6 @@ Automação de auditoria de performance de carteiras com controle de histórico 
 
 ## 📊 Stack e atividade
 
-## 📊 Stack e atividade
-
 <p align="center">
   <img
     height="165"
