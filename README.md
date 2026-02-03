@@ -43,7 +43,7 @@ Automação de auditoria de performance de carteiras com controle de histórico 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=renan-cesare&theme=github_dark"/>
 </td>
 <td align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=renan-cesare&theme=github_dark"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=renan-cesare&theme=github_dark"/>
 </td>
 </tr>
 </table>
