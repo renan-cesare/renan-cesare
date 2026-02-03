@@ -37,24 +37,22 @@ Automação de auditoria de performance de carteiras com controle de histórico 
 
 ## 📊 Stack e atividade
 
-<!-- Stack e atividade -->
 <table>
   <tr>
-    <!-- STATS (principal + fallback) -->
     <td align="center" width="50%">
-      <!-- Principal (Vercel oficial) -->
       <img
-        src="https://github-readme-stats.vercel.app/api?username=renan-cesare&show_icons=true&theme=dark&hide_border=true&v=1"
+        src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=renan-cesare&show_icons=true&theme=dark&hide_border=true"
         alt="GitHub Stats"
       />
-      <!-- Fallback (se o Vercel estiver pausado/fora) -->
-      <br/>
+    </td>
+    <td align="center" width="50%">
       <img
-        src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=renan-cesare&show_icons=true&theme=dark&hide_border=true&v=1"
-        alt="GitHub Stats (fallback)"
+        src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=renan-cesare&layout=compact&theme=dark&hide_border=true&langs_count=10&exclude_repo=outlook-structured-operations-audit-automation,outlook-performance-audit-automation"
+        alt="Most Used Languages"
       />
     </td>
-
+  </tr>
+</table>
 
 ---
 
