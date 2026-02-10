@@ -55,29 +55,28 @@ Automação de auditoria de performance de carteiras com controle de histórico 
   />
   <img
     height="190"
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=renan-cesare&layout=compact&theme=github_dark_dimmed&hide_border=true&langs_count=8&hide=jupyter%20notebook"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=renan-cesare&layout=compact&theme=github_dark&hide_border=true&langs_count=8&hide=jupyter%20notebook&cache_seconds=86400"
     alt="Most Used Languages"
   />
 </p>
 
-
-
-
-
-<!-- LINHA 3: Productive Time (esquerda) + Activity Graph (direita) -->
+<!-- LINHA 3: Productive Time (esquerda) + (direita reservado para outro gráfico) -->
 <p align="center">
   <img
     height="190"
     src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=renan-cesare&theme=github_dark&utcOffset=-3"
     alt="Commits (UTC -3)"
   />
+
+  <!-- DIREITA (reservado): cole aqui o próximo gráfico quando decidir -->
+  <!--
   <img
     height="190"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=renan-cesare&theme=github-dark&hide_border=true"
-    alt="Activity Graph"
+    src="COLE_AQUI_O_LINK_DO_NOVO_GRAFICO"
+    alt="Novo gráfico"
   />
+  -->
 </p>
-
 
 <!-- LINHA 4 (centralizado): Streak sozinho -->
 <p align="center">
@@ -85,6 +84,15 @@ Automação de auditoria de performance de carteiras com controle de histórico 
     height="190"
     src="https://streak-stats.demolab.com?user=renan-cesare&theme=github-dark&hide_border=true"
     alt="GitHub Streak"
+  />
+</p>
+
+<!-- LINHA 5 (centralizado): Activity Graph sozinho -->
+<p align="center">
+  <img
+    height="190"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=renan-cesare&theme=github-dark&hide_border=true"
+    alt="Activity Graph"
   />
 </p>
 
