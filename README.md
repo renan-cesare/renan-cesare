@@ -37,6 +37,7 @@ Automação de auditoria de performance de carteiras com controle de histórico 
 
 ## 📊 Stack e atividade
 
+<!-- LINHA 1 (centralizado): Profile Details -->
 <p align="center">
   <img
     height="200"
@@ -45,32 +46,47 @@ Automação de auditoria de performance de carteiras com controle de histórico 
   />
 </p>
 
+<!-- LINHA 2 (centralizado): Stats (esquerda) + Most Used Languages (direita) -->
 <p align="center">
+  <!-- Card: Stats -->
   <img
     height="190"
     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=renan-cesare&theme=github_dark"
     alt="Stats"
   />
+  <!-- Card: Most Used Languages -->
   <img
     height="190"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=renan-cesare&layout=compact&theme=github_dark&hide_border=true&langs_count=10&hide=jupyter%20notebook"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=renan-cesare&layout=compact&theme=github_dark&hide_border=true&langs_count=10&hide=jupyter%20notebook&cache_seconds=86400"
     alt="Most Used Languages"
   />
 </p>
 
+<!-- LINHA 3 (centralizado): Productive Time (esquerda) + Pull Requests (direita) -->
 <p align="center">
+  <!-- Card: Productive Time -->
   <img
     height="190"
     src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=renan-cesare&theme=github_dark&utcOffset=-3"
     alt="Commits (UTC -3)"
   />
+  <!-- Card: Pull Requests -->
+  <img
+    height="190"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/pull-requests?username=renan-cesare&theme=github_dark"
+    alt="Pull Requests"
+  />
+</p>
+
+<!-- LINHA 4 (centralizado): Streak sozinho -->
+<p align="center">
   <img
     height="190"
     src="https://streak-stats.demolab.com?user=renan-cesare&theme=github-dark&hide_border=true"
     alt="GitHub Streak"
   />
 </p>
->
+
 
 ---
 
