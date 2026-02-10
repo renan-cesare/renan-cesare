@@ -39,29 +39,18 @@ Automação de auditoria de performance de carteiras com controle de histórico 
 
 <p align="center">
   <img
-    height="200"
+    width="100%"
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=renan-cesare&theme=github_dark"
     alt="Profile Details"
   />
 </p>
-<div>
-  <a href="https://github.com/renan-cesare">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=renan-cesare&show_icons=true&theme=github_dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renan-cesare&layout=compact&theme=github_dark"/>
-</div>
 
-<p align="center">
-  <img
-    height="190"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=renan-cesare&theme=github_dark"
-    alt="Stats"
-  />
-  <img
-    height="190"
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=renan-cesare&layout=compact&theme=github_dark&hide_border=true&langs_count=10&cache_seconds=86400"
-    alt="Most Used Languages"
-  />
-</p>
+<div align="center">
+  <a href="https://github.com/renan-cesare">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=renan-cesare&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=86400"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renan-cesare&layout=compact&theme=github_dark&hide_border=true&langs_count=10&cache_seconds=86400"/>
+  </a>
+</div>
 
 <p align="center">
   <img
@@ -71,11 +60,10 @@ Automação de auditoria de performance de carteiras com controle de histórico 
   />
   <img
     height="190"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/pull-requests?username=renan-cesare&theme=github_dark"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/pull-requests?username=renan-cesare&theme=github_dark&cacheBust=1"
     alt="Pull Requests"
   />
 </p>
-
 
 ---
 
