@@ -53,9 +53,11 @@ Automação de auditoria de performance de carteiras com controle de histórico 
     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=renan-cesare&theme=github_dark"
     alt="Stats"
   />
+
+  <!-- Most Used Languages (ajustado esteticamente para combinar com dark) -->
   <img
     height="190"
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=renan-cesare&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=jupyter%20notebook&cache_seconds=86400"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=renan-cesare&layout=compact&langs_count=8&hide=jupyter%20notebook&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"
     alt="Most Used Languages"
   />
 </p>
@@ -82,9 +84,15 @@ Automação de auditoria de performance de carteiras com controle de histórico 
     alt="GitHub Streak"
   />
 </p>
->
 
-
+<!-- LINHA 5 (centralizado): Contribution Graph sozinho -->
+<p align="center">
+  <img
+    height="190"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=renan-cesare&theme=github-dark&hide_border=true&area=true"
+    alt="Contribution Graph"
+  />
+</p>
 
 
 ---
