@@ -53,8 +53,8 @@ Automação de auditoria de performance de carteiras com controle de histórico 
   />
   <img
     height="190"
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=renan-cesare&layout=compact&theme=github_dark&hide_border=true&langs_count=10&cache_seconds=86400"
-    alt="Top Languages"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=renan-cesare&theme=github_dark"
+    alt="Most Commit Language"
   />
 </p>
 
@@ -66,8 +66,8 @@ Automação de auditoria de performance de carteiras com controle de histórico 
   />
   <img
     height="190"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/pull-requests?username=renan-cesare&theme=github_dark"
-    alt="Pull Requests"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=renan-cesare&theme=github_dark"
+    alt="Repos per Language"
   />
 </p>
 
