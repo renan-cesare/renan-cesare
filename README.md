@@ -53,8 +53,6 @@ Automação de auditoria de performance de carteiras com controle de histórico 
     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=renan-cesare&theme=github_dark"
     alt="Stats"
   />
-
-  <!-- Most Used Languages (ajustado esteticamente para combinar com dark) -->
   <img
     height="190"
     src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=renan-cesare&layout=compact&langs_count=8&hide=jupyter%20notebook&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"
@@ -62,7 +60,7 @@ Automação de auditoria de performance de carteiras com controle de histórico 
   />
 </p>
 
-<!-- LINHA 3: Productive Time (esquerda) + Activity Graph (direita) -->
+<!-- LINHA 3: Commits (esquerda) + GitHub Stats (direita - só pra preencher) -->
 <p align="center">
   <img
     height="190"
@@ -71,8 +69,8 @@ Automação de auditoria de performance de carteiras com controle de histórico 
   />
   <img
     height="190"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=renan-cesare&theme=github-dark&hide_border=true"
-    alt="Activity Graph"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=renan-cesare&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff"
+    alt="GitHub Stats"
   />
 </p>
 
@@ -89,7 +87,7 @@ Automação de auditoria de performance de carteiras com controle de histórico 
 <p align="center">
   <img
     height="190"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=renan-cesare&theme=github-dark&hide_border=true&area=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=renan-cesare&theme=github-dark&hide_border=true"
     alt="Contribution Graph"
   />
 </p>
