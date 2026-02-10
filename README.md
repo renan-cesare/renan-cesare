@@ -55,12 +55,12 @@ Automação de auditoria de performance de carteiras com controle de histórico 
   />
   <img
     height="190"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=renan-cesare&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=renan-cesare&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=jupyter%20notebook&cache_seconds=86400"
     alt="Most Used Languages"
   />
 </p>
 
-<!-- LINHA 3: Productive Time (esquerda) + Activity Distribution/Radar (direita) -->
+<!-- LINHA 3: Productive Time (esquerda) + Activity Graph (direita) -->
 <p align="center">
   <img
     height="190"
@@ -69,8 +69,8 @@ Automação de auditoria de performance de carteiras com controle de histórico 
   />
   <img
     height="190"
-    src="COLE_AQUI_A_URL_DO_RADAR.svg"
-    alt="Activity Distribution"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=renan-cesare&theme=github-dark&hide_border=true"
+    alt="Activity Graph"
   />
 </p>
 
@@ -82,15 +82,7 @@ Automação de auditoria de performance de carteiras com controle de histórico 
     alt="GitHub Streak"
   />
 </p>
-
-<!-- LINHA 5 (centralizado): Activity Graph sozinho -->
-<p align="center">
-  <img
-    height="190"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=renan-cesare&theme=github-dark&hide_border=true"
-    alt="Activity Graph"
-  />
-</p>
+>
 
 
 
