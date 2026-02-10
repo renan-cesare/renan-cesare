@@ -46,21 +46,20 @@ Automação de auditoria de performance de carteiras com controle de histórico 
   />
 </p>
 
-<!-- LINHA 2 (centralizado): Stats (esquerda) + Most Used Languages (direita) -->
+<!-- LINHA 2: Stats (esquerda) + Linguagens (direita) -->
 <p align="center">
-  <!-- Card: Stats -->
   <img
     height="190"
     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=renan-cesare&theme=github_dark"
     alt="Stats"
   />
-  <!-- Card: Most Used Languages -->
   <img
     height="190"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=renan-cesare&layout=compact&theme=github_dark&hide_border=true&langs_count=10&hide=jupyter%20notebook&cache_seconds=86400"
-    alt="Most Used Languages"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=renan-cesare&theme=github_dark"
+    alt="Repos per Language"
   />
 </p>
+
 
 <!-- LINHA 3: Productive Time (esquerda) + Activity Graph (direita) -->
 <p align="center">
