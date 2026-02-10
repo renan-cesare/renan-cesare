@@ -46,7 +46,7 @@ Automação de auditoria de performance de carteiras com controle de histórico 
   />
 </p>
 
-<!-- LINHA 2: Stats (esquerda) + Most Used Languages (direita - barras) -->
+<!-- LINHA 2: Stats (esquerda) + Most Used Languages (direita) -->
 <p align="center">
   <img
     height="190"
@@ -55,10 +55,11 @@ Automação de auditoria de performance de carteiras com controle de histórico 
   />
   <img
     height="190"
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=renan-cesare&layout=compact&theme=github_dark&hide_border=true&langs_count=8&hide=jupyter%20notebook"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=renan-cesare&layout=compact&theme=github_dark_dimmed&hide_border=true&langs_count=8&hide=jupyter%20notebook"
     alt="Most Used Languages"
   />
 </p>
+
 
 
 
