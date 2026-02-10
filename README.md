@@ -62,19 +62,17 @@ Automação de auditoria de performance de carteiras com controle de histórico 
   />
 </p>
 
-<!-- LINHA 3 (centralizado): Productive Time (esquerda) + Pull Requests (direita) -->
+<!-- LINHA 3: Productive Time (esquerda) + Metrics/Activity (direita) -->
 <p align="center">
-  <!-- Card: Productive Time -->
   <img
     height="190"
     src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=renan-cesare&theme=github_dark&utcOffset=-3"
     alt="Commits (UTC -3)"
   />
-  <!-- Card: Pull Requests -->
   <img
     height="190"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/pull-requests?username=renan-cesare&theme=github_dark"
-    alt="Pull Requests"
+    src="https://metrics.lecoq.io/renan-cesare?template=classic&base=activity&config.timezone=America/Sao_Paulo"
+    alt="Activity Metrics"
   />
 </p>
 
