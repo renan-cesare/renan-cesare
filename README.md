@@ -62,7 +62,7 @@ Automação de auditoria de performance de carteiras com controle de histórico 
   />
 </p>
 
-<!-- LINHA 3: Productive Time (esquerda) + Metrics/Activity (direita) -->
+<!-- LINHA 3: Productive Time (esquerda) + Activity Graph (direita) -->
 <p align="center">
   <img
     height="190"
@@ -71,10 +71,11 @@ Automação de auditoria de performance de carteiras com controle de histórico 
   />
   <img
     height="190"
-    src="https://metrics.lecoq.io/renan-cesare?template=classic&base=activity&config.timezone=America/Sao_Paulo"
-    alt="Activity Metrics"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=renan-cesare&theme=github-dark&hide_border=true"
+    alt="Activity Graph"
   />
 </p>
+
 
 <!-- LINHA 4 (centralizado): Streak sozinho -->
 <p align="center">
