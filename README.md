@@ -80,7 +80,7 @@ Automação de auditoria de performance de carteiras com controle de histórico 
   <a href="mailto:renandecesare1@gmail.com" target="_blank"><img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
   <a href="https://www.instagram.com/SEU_USUARIO_AQUI/" target="_blank"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
->
+
 
 
 
