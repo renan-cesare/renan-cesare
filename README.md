@@ -39,13 +39,21 @@ Automação de auditoria de performance de carteiras com controle de histórico 
 
 <p align="center">
   <img
+    height="200"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=renan-cesare&theme=github_dark"
+    alt="Profile Details"
+  />
+</p>
+
+<p align="center">
+  <img
     height="190"
     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=renan-cesare&theme=github_dark"
     alt="Stats"
   />
   <img
     height="190"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=renan-cesare&layout=compact&theme=github_dark&hide_border=true&langs_count=10&cache_seconds=86400"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=renan-cesare&layout=compact&theme=github_dark&hide_border=true&langs_count=10&cache_seconds=86400"
     alt="Most Used Languages"
   />
 </p>
@@ -58,8 +66,8 @@ Automação de auditoria de performance de carteiras com controle de histórico 
   />
   <img
     height="190"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=renan-cesare&theme=github_dark"
-    alt="Repos per Language"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/pull-requests?username=renan-cesare&theme=github_dark"
+    alt="Pull Requests"
   />
 </p>
 
