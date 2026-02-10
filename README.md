@@ -55,12 +55,12 @@ Automação de auditoria de performance de carteiras com controle de histórico 
   />
   <img
     height="190"
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=renan-cesare&layout=compact&langs_count=8&hide=jupyter%20notebook&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=renan-cesare&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff"
     alt="Most Used Languages"
   />
 </p>
 
-<!-- LINHA 3: Productive Time (esquerda) + GitHub Stats (direita) -->
+<!-- LINHA 3: Productive Time (esquerda) + Activity Distribution/Radar (direita) -->
 <p align="center">
   <img
     height="190"
@@ -69,8 +69,8 @@ Automação de auditoria de performance de carteiras com controle de histórico 
   />
   <img
     height="190"
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=renan-cesare&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400"
-    alt="GitHub Stats"
+    src="COLE_AQUI_A_URL_DO_RADAR.svg"
+    alt="Activity Distribution"
   />
 </p>
 
@@ -91,6 +91,7 @@ Automação de auditoria de performance de carteiras com controle de histórico 
     alt="Activity Graph"
   />
 </p>
+
 
 
 
