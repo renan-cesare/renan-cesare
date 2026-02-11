@@ -99,6 +99,10 @@ Automação de auditoria de performance de carteiras com controle de histórico 
     alt="Tech Stack Icons"
   />
 </p>
+<!-- LINHA 8: GitHub Metrics -->
+<p align="center">
+  <img src="./metrics_renders/github-metrics.svg" alt="GitHub Metrics" />
+</p>
 
 
 ---
