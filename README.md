@@ -60,17 +60,18 @@ Automação de auditoria de performance de carteiras com controle de histórico 
   />
 </p>
 
-<!-- LINHA 3: Commits (esquerda) + Activity Graph (direita) -->
+<!-- LINHA 3: Commits (esquerda) + Tech Stack Icons (direita) -->
 <p align="center">
   <img
     height="190"
     src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=renan-cesare&theme=github_dark&utcOffset=-3"
     alt="Commits (UTC -3)"
   />
+
   <img
     height="190"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=renan-cesare&theme=github-dark&hide_border=true"
-    alt="Contribution Graph"
+    src="https://skillicons.dev/icons?i=python,fastapi,flask,postgres,mysql,sqlite,git,github,linux,docker,vscode&theme=dark"
+    alt="Tech Stack Icons"
   />
 </p>
 
