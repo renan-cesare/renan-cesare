@@ -74,6 +74,7 @@ Automação de auditoria de performance de carteiras com controle de histórico 
   />
 </p>
 
+
 <!-- LINHA 4 (centralizado): Streak sozinho -->
 <p align="center">
   <img
