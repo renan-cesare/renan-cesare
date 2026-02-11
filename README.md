@@ -60,7 +60,7 @@ Automação de auditoria de performance de carteiras com controle de histórico 
   />
 </p>
 
-<!-- LINHA 3: Commits (esquerda) + GitHub Stats (direita - só pra preencher) -->
+<!-- LINHA 3: Commits (esquerda) + Repo Card (direita) -->
 <p align="center">
   <img
     height="190"
@@ -69,12 +69,10 @@ Automação de auditoria de performance de carteiras com controle de histórico 
   />
   <img
     height="190"
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=renan-cesare&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff"
-    alt="GitHub Stats"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=renan-cesare&repo=outlook-structured-operations-audit-automation&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff"
+    alt="Pinned Repo"
   />
 </p>
-
-
 
 <!-- LINHA 4 (centralizado): Streak sozinho -->
 <p align="center">
