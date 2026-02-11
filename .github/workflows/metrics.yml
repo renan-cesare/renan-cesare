@@ -1,9 +1,12 @@
 name: GitHub Metrics
 
 on:
-  schedule:
-    - cron: "0 6 * * 1"   # toda segunda 06:00 UTC (03:00 no Brasil)
   workflow_dispatch:
+  schedule:
+    - cron: "0 6 * * 1"
+
+permissions:
+  contents: write
 
 jobs:
   github-metrics:
@@ -12,19 +15,16 @@ jobs:
       - name: Generate GitHub Metrics
         uses: lowlighter/metrics@latest
         with:
-          filename: github-metrics.svg
           token: ${{ secrets.GITHUB_TOKEN }}
+          filename: metrics_renders/github-metrics.svg
 
-          # Tema e estilo
-          config_display: large
-          config_padding: 8%
           config_timezone: America/Sao_Paulo
           config_output: svg
+          config_display: large
+          config_padding: 8%
 
-          # Base
           base: header, activity, community, repositories, metadata
 
-          # Plugins (os melhores)
           plugin_languages: yes
           plugin_languages_ignored: html, css
           plugin_languages_details: bytes-size, percentage
