@@ -60,7 +60,7 @@ Automação de auditoria de performance de carteiras com controle de histórico 
   />
 </p>
 
-<!-- LINHA 3: Commits (esquerda) + Repo Card (direita) -->
+<!-- LINHA 3: Commits (esquerda) + Activity Graph (direita) -->
 <p align="center">
   <img
     height="190"
@@ -69,8 +69,8 @@ Automação de auditoria de performance de carteiras com controle de histórico 
   />
   <img
     height="190"
-    src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=renan-cesare&repo=SEU_REPO_AQUI&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff"
-    alt="Pinned Repo"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=renan-cesare&theme=github-dark&hide_border=true"
+    alt="Contribution Graph"
   />
 </p>
 
