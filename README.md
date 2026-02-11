@@ -60,21 +60,19 @@ Automação de auditoria de performance de carteiras com controle de histórico 
   />
 </p>
 
-<!-- LINHA 3: Commits (esquerda) + Tech Stack Icons (direita) -->
+<!-- LINHA 3: Commits (esquerda) + Dev Quote (direita) -->
 <p align="center">
   <img
     height="190"
     src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=renan-cesare&theme=github_dark&utcOffset=-3"
     alt="Commits (UTC -3)"
   />
-
   <img
     height="190"
-    src="https://skillicons.dev/icons?i=python,fastapi,flask,postgres,mysql,sqlite,git,github,linux,docker,vscode&theme=dark"
-    alt="Tech Stack Icons"
+    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"
+    alt="Dev Quote"
   />
 </p>
-
 
 <!-- LINHA 4 (centralizado): Streak sozinho -->
 <p align="center">
@@ -91,6 +89,14 @@ Automação de auditoria de performance de carteiras com controle de histórico 
     height="190"
     src="https://github-readme-activity-graph.vercel.app/graph?username=renan-cesare&theme=github-dark&hide_border=true"
     alt="Contribution Graph"
+  />
+</p>
+
+<!-- LINHA 6: Tech Stack Icons (centralizado) -->
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=python,fastapi,flask,postgres,mysql,sqlite,git,github,linux,docker,vscode&theme=dark"
+    alt="Tech Stack Icons"
   />
 </p>
 
