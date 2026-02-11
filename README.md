@@ -72,6 +72,7 @@ Automação de auditoria de performance de carteiras com controle de histórico 
     src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=renan-cesare&repo=SEU_REPO_AQUI&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff"
     alt="Pinned Repo"
   />
+</p>
 
 
 <!-- LINHA 4 (centralizado): Streak sozinho -->
