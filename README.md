@@ -97,11 +97,12 @@ Crio pipelines, robôs e ferramentas internas para:
 <!-- LINHA 7 (centralizado): Contribution Graph -->
 <p align="center">
   <img
-    height="190"
+    width="1000"
     src="https://github-readme-activity-graph.vercel.app/graph?username=renan-cesare&theme=github-dark&hide_border=true"
     alt="Contribution Graph"
   />
 </p>
+
 
 <!-- LINHA 8: Tech Stack Icons (centralizado) -->
 <p align="center">
