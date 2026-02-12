@@ -33,20 +33,12 @@ Crio pipelines, robôs e ferramentas internas para:
 
 ## 📊 Stack e atividade
 
-<!-- LINHA 1 (centralizado): GitHub Metrics (super dashboard) -->
+<!-- 1) GitHub Metrics (super dashboard) -->
 <p align="center">
   <img src="./metrics_renders/github-metrics.svg" alt="GitHub Metrics" />
 </p>
 
-<!-- LINHA 2 (centralizado): Snake -->
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/renan-cesare/renan-cesare/output/github-contribution-grid-snake-dark.svg"
-    alt="Snake Animation"
-  />
-</p>
-
-<!-- LINHA 3 (centralizado): Profile Details -->
+<!-- 2) Profile Details (overview anual) -->
 <p align="center">
   <img
     width="900"
@@ -55,7 +47,39 @@ Crio pipelines, robôs e ferramentas internas para:
   />
 </p>
 
-<!-- LINHA 7 (centralizado): Contribution Graph -->
+<!-- 3) Most Used Languages (centralizado) -->
+<p align="center">
+  <img
+    height="190"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=renan-cesare&layout=compact&langs_count=8&hide=jupyter%20notebook&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d"
+    alt="Most Used Languages"
+  />
+</p>
+
+<!-- 4) Hábitos de commit (UTC -3) + Repos por linguagem -->
+<p align="center">
+  <img
+    height="190"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=renan-cesare&theme=github_dark&utcOffset=-3"
+    alt="Productive Time (UTC -3)"
+  />
+  <img
+    height="190"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=renan-cesare&theme=github_dark"
+    alt="Repos per Language"
+  />
+</p>
+
+<!-- 5) Streak -->
+<p align="center">
+  <img
+    width="1000"
+    src="https://streak-stats.demolab.com?user=renan-cesare&theme=github-dark&hide_border=true"
+    alt="GitHub Streak"
+  />
+</p>
+
+<!-- 6) Contribution Graph (tendência por dia) -->
 <p align="center">
   <img
     width="1000"
@@ -64,51 +88,22 @@ Crio pipelines, robôs e ferramentas internas para:
   />
 </p>
 
-<!-- LINHA 4: Stats (esquerda) + Most Used Languages (direita) -->
+<!-- 7) Snake (extra visual) -->
 <p align="center">
   <img
-    height="190"
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=renan-cesare&layout=compact&langs_count=8&hide=jupyter%20notebook&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d"
-    alt="Most Used Languages"
-  />
-  
-</p>
-
-
-
-<!-- LINHA 5: Productive Time (esquerda) + Commits per Day (direita) -->
-<p align="center">
-  <img
-    height="190"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=renan-cesare&theme=github_dark&utcOffset=-3"
-    alt="Productive Time (UTC -3)"
-  />
-  <img
-  height="190"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=renan-cesare&theme=github_dark"
-  alt="Repos per Language"
+    src="https://raw.githubusercontent.com/renan-cesare/renan-cesare/output/github-contribution-grid-snake-dark.svg"
+    alt="Snake Animation"
   />
 </p>
 
-<!-- LINHA 6 (centralizado): Streak -->
-<p align="center">
-  <img
-    height="190"
-    src="https://streak-stats.demolab.com?user=renan-cesare&theme=github-dark&hide_border=true"
-    alt="GitHub Streak"
-  />
-</p>
-
-
-
-
-<!-- LINHA 8: Tech Stack Icons (centralizado) -->
+<!-- 8) Tech Stack Icons -->
 <p align="center">
   <img
     src="https://skillicons.dev/icons?i=python,fastapi,flask,postgres,mysql,sqlite,git,github,linux,docker,vscode&theme=dark"
     alt="Tech Stack Icons"
   />
 </p>
+
 
 
 ---
