@@ -47,26 +47,26 @@ Crio pipelines, robôs e ferramentas internas para:
   />
 </p>
 
-<!-- 3) Most Used Languages (centralizado) -->
+<!-- LINHA: Commits (UTC -3) (esquerda) + Most Commit Language (direita) -->
+<p align="center">
+  <img
+    height="190"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=renan-cesare&theme=github_dark&utcOffset=-3"
+    alt="Commits (UTC -3)"
+  />
+  <img
+    height="190"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=renan-cesare&theme=github_dark"
+    alt="Most Commit Language"
+  />
+</p>
+
+<!-- 4) Most Used Languages (centralizado) -->
 <p align="center">
   <img
     height="190"
     src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=renan-cesare&layout=compact&langs_count=8&hide=jupyter%20notebook&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d"
     alt="Most Used Languages"
-  />
-</p>
-
-<!-- 4) Hábitos de commit (UTC -3) + Repos por linguagem -->
-<p align="center">
-  <img
-    height="190"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=renan-cesare&theme=github_dark&utcOffset=-3"
-    alt="Productive Time (UTC -3)"
-  />
-  <img
-    height="190"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=renan-cesare&theme=github_dark"
-    alt="Repos per Language"
   />
 </p>
 
