@@ -37,7 +37,20 @@ Automação de auditoria de performance de carteiras com controle de histórico 
 
 ## 📊 Stack e atividade
 
-<!-- LINHA 1 (centralizado): Profile Details -->
+<!-- LINHA 1 (centralizado): GitHub Metrics (super dashboard) -->
+<p align="center">
+  <img src="./metrics_renders/github-metrics.svg" alt="GitHub Metrics" />
+</p>
+
+<!-- LINHA 2 (centralizado): Snake -->
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/renan-cesare/renan-cesare/output/github-contribution-grid-snake-dark.svg"
+    alt="Snake Animation"
+  />
+</p>
+
+<!-- LINHA 3 (centralizado): Profile Details -->
 <p align="center">
   <img
     height="200"
@@ -46,7 +59,7 @@ Automação de auditoria de performance de carteiras com controle de histórico 
   />
 </p>
 
-<!-- LINHA 2: Stats (esquerda) + Most Used Languages (direita) -->
+<!-- LINHA 4: Stats (esquerda) + Most Used Languages (direita) -->
 <p align="center">
   <img
     height="190"
@@ -60,7 +73,7 @@ Automação de auditoria de performance de carteiras com controle de histórico 
   />
 </p>
 
-<!-- LINHA 3: Commits por hora (esquerda) + Productive Time (direita) -->
+<!-- LINHA 5: Productive Time (esquerda) + Commits per Day (direita) -->
 <p align="center">
   <img
     height="190"
@@ -69,12 +82,12 @@ Automação de auditoria de performance de carteiras com controle de histórico 
   />
   <img
     height="190"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=renan-cesare&theme=github_dark&utcOffset=-3"
-    alt="Commits by Day (UTC -3)"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=renan-cesare&theme=github_dark"
+    alt="Most Commit Language"
   />
 </p>
 
-<!-- LINHA 4 (centralizado): Streak sozinho -->
+<!-- LINHA 6 (centralizado): Streak -->
 <p align="center">
   <img
     height="190"
@@ -83,7 +96,7 @@ Automação de auditoria de performance de carteiras com controle de histórico 
   />
 </p>
 
-<!-- LINHA 5 (centralizado): Contribution Graph sozinho -->
+<!-- LINHA 7 (centralizado): Contribution Graph -->
 <p align="center">
   <img
     height="190"
@@ -92,37 +105,13 @@ Automação de auditoria de performance de carteiras com controle de histórico 
   />
 </p>
 
-<!-- LINHA 6: Tech Stack Icons (centralizado) -->
+<!-- LINHA 8: Tech Stack Icons (centralizado) -->
 <p align="center">
   <img
     src="https://skillicons.dev/icons?i=python,fastapi,flask,postgres,mysql,sqlite,git,github,linux,docker,vscode&theme=dark"
     alt="Tech Stack Icons"
   />
 </p>
-
-<!-- LINHA 7: GitHub Metrics -->
-<p align="center">
-  <img src="./metrics_renders/github-metrics.svg" alt="GitHub Metrics" />
-</p>
-
-<!-- LINHA 8: TESTES EXTRAS (WakaTime + Snake) -->
-<p align="center">
-  <!-- WakaTime (só funciona se você usar WakaTime no VS Code) -->
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/wakatime?username=SEU_USER_WAKATIME&layout=compact&theme=github_dark&hide_border=true"
-    alt="WakaTime Stats"
-  />
-</p>
-
-<p align="center">
-  <!-- Snake (precisa do workflow rodando no repo) -->
-  <img
-    src="https://raw.githubusercontent.com/renan-cesare/renan-cesare/output/github-contribution-grid-snake-dark.svg"
-    alt="Snake Animation"
-  />
-</p>
-
 
 
 ---
