@@ -54,8 +54,8 @@ Crio pipelines, robôs e ferramentas internas para:
     src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=renan-cesare&theme=github_dark&utcOffset=-3"
     alt="Commits (UTC -3)"
   />
-  <img src="./metrics_renders/commits-per-day.svg" />
-
+  <img  
+    width="900" src="https://github-readme-activity-graph.vercel.app/graph?username=renan-cesare&theme=github-dark&hide_border=true"
   />
 
 </p>
