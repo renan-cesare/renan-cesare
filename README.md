@@ -56,8 +56,8 @@ Crio pipelines, robôs e ferramentas internas para:
   />
   <img
     width="448"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/commits-per-day?username=renan-cesare&theme=github_dark"
-    alt="Commits per Day"
+    src="https://github-readme-stats.vercel.app/api?username=renan-cesare&show_icons=true&theme=github_dark&hide_border=true"
+    alt="GitHub Stats"
   />
 
 </p>
