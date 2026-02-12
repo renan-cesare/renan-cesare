@@ -50,16 +50,17 @@ Crio pipelines, robôs e ferramentas internas para:
 <!-- LINHA: Commits (UTC -3) (esquerda) + Most Commit Language (direita) -->
 <p align="center">
   <img
-    height="190"
+    width="440"
     src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=renan-cesare&theme=github_dark&utcOffset=-3"
     alt="Commits (UTC -3)"
   />
   <img
-    height="190"
+    width="440"
     src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=renan-cesare&theme=github_dark"
     alt="Most Commit Language"
   />
 </p>
+
 
 <!-- 4) Most Used Languages (centralizado) -->
 <p align="center">
