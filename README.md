@@ -49,11 +49,12 @@ Crio pipelines, robôs e ferramentas internas para:
 <!-- LINHA 3 (centralizado): Profile Details -->
 <p align="center">
   <img
-    height="300"
+    width="900"
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=renan-cesare&theme=github_dark"
     alt="Profile Details"
   />
 </p>
+
 
 
 <!-- LINHA 4: Stats (esquerda) + Most Used Languages (direita) -->
