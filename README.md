@@ -60,17 +60,17 @@ Automação de auditoria de performance de carteiras com controle de histórico 
   />
 </p>
 
-<!-- LINHA 3: Commits (esquerda) + Dev Quote (direita) -->
+<!-- LINHA 3: Commits por hora (esquerda) + Productive Time (direita) -->
 <p align="center">
   <img
     height="190"
     src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=renan-cesare&theme=github_dark&utcOffset=-3"
-    alt="Commits (UTC -3)"
+    alt="Productive Time (UTC -3)"
   />
   <img
     height="190"
-    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"
-    alt="Dev Quote"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=renan-cesare&theme=github_dark&utcOffset=-3"
+    alt="Commits by Day (UTC -3)"
   />
 </p>
 
@@ -99,23 +99,28 @@ Automação de auditoria de performance de carteiras com controle de histórico 
     alt="Tech Stack Icons"
   />
 </p>
-<!-- LINHA 8: GitHub Metrics -->
+
+<!-- LINHA 7: GitHub Metrics -->
 <p align="center">
   <img src="./metrics_renders/github-metrics.svg" alt="GitHub Metrics" />
 </p>
 
-<!-- 🔬 TESTES EXTRAS (gráficos diferentes) -->
+<!-- LINHA 8: TESTES EXTRAS (WakaTime + Snake) -->
 <p align="center">
-  <!-- Commits by day of week -->
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=renan-cesare&theme=github_dark&utcOffset=-3" />
-  
   <!-- WakaTime (só funciona se você usar WakaTime no VS Code) -->
-  <img height="170" src="https://github-readme-stats.vercel.app/api/wakatime?username=SEU_USER_WAKATIME&layout=compact&theme=github_dark&hide_border=true" />
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/wakatime?username=SEU_USER_WAKATIME&layout=compact&theme=github_dark&hide_border=true"
+    alt="WakaTime Stats"
+  />
 </p>
 
 <p align="center">
   <!-- Snake (precisa do workflow rodando no repo) -->
-  <img src="https://raw.githubusercontent.com/renan-cesare/renan-cesare/output/github-contribution-grid-snake-dark.svg" />
+  <img
+    src="https://raw.githubusercontent.com/renan-cesare/renan-cesare/output/github-contribution-grid-snake-dark.svg"
+    alt="Snake Animation"
+  />
 </p>
 
 
