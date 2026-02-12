@@ -84,9 +84,9 @@ Crio pipelines, robôs e ferramentas internas para:
     alt="Productive Time (UTC -3)"
   />
   <img
-    height="190"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=renan-cesare&theme=github_dark"
-    alt="Most Commit Language"
+  height="190"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=renan-cesare&theme=github_dark"
+  alt="Repos per Language"
   />
 </p>
 
