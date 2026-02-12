@@ -23,16 +23,18 @@ jobs:
           config_display: large
           config_padding: 8%
 
-          base: header, activity, community, repositories, metadata
+          # Base (clean)
+          base: header, activity, repositories, metadata
 
+          # Languages
           plugin_languages: yes
           plugin_languages_ignored: html, css
           plugin_languages_details: bytes-size, percentage
           plugin_languages_limit: 8
 
-          plugin_habits: yes
-          plugin_habits_facts: yes
-          plugin_habits_charts: yes
-
+          # Isocalendar (bonito e estável)
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
+
+          # REMOVE o habits (é o que tá quebrando)
+          plugin_habits: no
