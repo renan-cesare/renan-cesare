@@ -104,6 +104,21 @@ Automação de auditoria de performance de carteiras com controle de histórico 
   <img src="./metrics_renders/github-metrics.svg" alt="GitHub Metrics" />
 </p>
 
+<!-- 🔬 TESTES EXTRAS (gráficos diferentes) -->
+<p align="center">
+  <!-- Commits by day of week -->
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=renan-cesare&theme=github_dark&utcOffset=-3" />
+  
+  <!-- WakaTime (só funciona se você usar WakaTime no VS Code) -->
+  <img height="170" src="https://github-readme-stats.vercel.app/api/wakatime?username=SEU_USER_WAKATIME&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <!-- Snake (precisa do workflow rodando no repo) -->
+  <img src="https://raw.githubusercontent.com/renan-cesare/renan-cesare/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+
 
 ---
 
