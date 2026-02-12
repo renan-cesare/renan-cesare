@@ -56,9 +56,10 @@ Crio pipelines, robôs e ferramentas internas para:
   />
   <img
     width="448"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=renan-cesare&theme=github_dark"
-    alt="Most Commit Language"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=renan-cesare&layout=compact&langs_count=8&hide=jupyter%20notebook&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"
+    alt="Most Used Languages"
   />
+
 </p>
 
 
