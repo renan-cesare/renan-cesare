@@ -24,14 +24,10 @@ Crio pipelines, robôs e ferramentas internas para:
 
 ## 🚀 Projetos em destaque
 
-### 🔹 brokerage-notes-compliance-monitor
-Pipeline em Python para extração e consolidação de PDFs de notas de corretagem (B3), geração de histórico em Excel e aplicação de flags de compliance.
-
-### 🔹 outlook-structured-operations-audit-automation
-Sistema de envio de auditorias por Outlook, rastreio por IDs, histórico em Excel e cobrança automática de respostas.
-
-### 🔹 outlook-performance-audit-automation
-Automação de auditoria de performance de carteiras com controle de histórico e follow-up automático.
+- 🔹 **[zendesk-ticket-exporter-pdf](https://github.com/renan-cesare/zendesk-ticket-exporter-pdf)** — Automação em Python para exportação em massa de tickets do Zendesk em PDF, com checkpoint, inventário e consolidação de evidências.
+- 🔹 **[brokerage-notes-compliance-monitor](https://github.com/renan-cesare/brokerage-notes-compliance-monitor)** — Pipeline em Python para extração e consolidação de PDFs de notas de corretagem (B3), geração de histórico em Excel e aplicação de flags de compliance.
+- 🔹 **[outlook-structured-operations-audit-automation](https://github.com/renan-cesare/outlook-structured-operations-audit-automation)** — Automação de auditorias via Outlook com rastreio por IDs, histórico em Excel e cobrança automática de respostas.
+- 🔹 **[outlook-performance-audit-automation](https://github.com/renan-cesare/outlook-performance-audit-automation)** — Auditoria de performance de carteiras via Outlook + Excel (envio em massa, histórico e follow-up).
 
 ---
 
@@ -121,10 +117,4 @@ Automação de auditoria de performance de carteiras com controle de histórico 
 <p align="center">
   <a href="https://www.linkedin.com/in/renan-paulo-de-cesare-6513a51bb/" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:renandecesare1@gmail.com" target="_blank"><img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="https://www.instagram.com/SEU_USUARIO_AQUI/" target="_blank"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
-
-
-
-
-
