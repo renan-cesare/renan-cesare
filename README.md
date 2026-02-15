@@ -38,6 +38,23 @@ Crio pipelines, robôs e ferramentas internas para:
   <img src="./metrics_renders/github-metrics.svg" alt="GitHub Metrics" />
 </p>
 
+<!-- 7) Snake (extra visual) -->
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/renan-cesare/renan-cesare/output/github-contribution-grid-snake-dark.svg"
+    alt="Snake Animation"
+  />
+</p>
+
+<!-- 6) Contribution Graph (tendência por dia) -->
+<p align="center">
+  <img
+    width="1000"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=renan-cesare&theme=github-dark&hide_border=true"
+    alt="Contribution Graph"
+  />
+</p>
+
 <!-- 2) Profile Details (overview anual) -->
 <p align="center">
   <img
@@ -80,22 +97,9 @@ Crio pipelines, robôs e ferramentas internas para:
   />
 </p>
 
-<!-- 6) Contribution Graph (tendência por dia) -->
-<p align="center">
-  <img
-    width="1000"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=renan-cesare&theme=github-dark&hide_border=true"
-    alt="Contribution Graph"
-  />
-</p>
 
-<!-- 7) Snake (extra visual) -->
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/renan-cesare/renan-cesare/output/github-contribution-grid-snake-dark.svg"
-    alt="Snake Animation"
-  />
-</p>
+
+
 
 <!-- 8) Tech Stack Icons -->
 <p align="center">
