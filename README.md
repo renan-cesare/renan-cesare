@@ -35,7 +35,7 @@ Crio pipelines, robôs e ferramentas internas para:
 <!-- 3) Profile Details (overview anual) -->
 <p align="center">
   <img
-    width="900"
+    width="1000"
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=renan-cesare&theme=github_dark"
     alt="Profile Details"
   />
