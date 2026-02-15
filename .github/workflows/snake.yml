@@ -18,7 +18,7 @@ jobs:
           github_user_name: renan-cesare
           outputs: |
             output/github-contribution-grid-snake.svg
-            output/github-contribution-grid-snake-dark.svg?palette=github-dark
+            output/github-contribution-grid-snake-dark.svg?palette=github-dark-blue
 
       - name: Push snake to output branch
         uses: crazy-max/ghaction-github-pages@v4
