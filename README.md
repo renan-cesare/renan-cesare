@@ -46,7 +46,7 @@ No dia a dia, meu foco é:
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/renan-cesare/renan-cesare/output/github-contribution-grid-snake-dark.svg"
+    src="https://raw.githubusercontent.com/renan-cesare/renan-cesare/output/github-contribution-grid-snake-dark.svg?v=2"
     alt="Snake Animation"
   />
 </p>
