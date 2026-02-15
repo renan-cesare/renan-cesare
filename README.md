@@ -73,28 +73,6 @@ Crio pipelines, robôs e ferramentas internas para:
   />
 </p>{
 
-<!-- LINHA: Commits (UTC -3) (esquerda) + Most Commit Language (direita) -->
-<p align="center">
-  <img
-    width="448"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=renan-cesare&theme=github_dark&utcOffset=-3"
-    alt="Commits (UTC -3)"
-  />
-  <img  
-    width="900" src="https://github-readme-activity-graph.vercel.app/graph?username=renan-cesare&theme=github-dark&hide_border=true"
-  />
-
-</p>
-
-
-
-
-
-
-
-
-
-
 
 <!-- 8) Tech Stack Icons -->
 <p align="center">
