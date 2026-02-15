@@ -1,12 +1,12 @@
 <h1 align="center">Renan De Cesare</h1>
 
 <p align="center">
-Construo sistemas de automação em Python para operações financeiras, risco & compliance.<br>
-Foco em pipelines de dados, auditoria automática e monitoramento de operações.
+  Construo sistemas de automação em Python para operações financeiras, risco & compliance.<br>
+  Foco em pipelines de dados, auditoria automática e monitoramento de operações.
 </p>
 
 <p align="center">
-🐍 Python &nbsp;|&nbsp; 📊 Data &nbsp;|&nbsp; ⚙️ Automation
+  🐍 Python &nbsp;|&nbsp; 📊 Data &nbsp;|&nbsp; ⚙️ Automation
 </p>
 
 ---
@@ -32,7 +32,8 @@ Crio pipelines, robôs e ferramentas internas para:
 ---
 
 ## 📊 Stack e atividade
-<!-- 3) Profile Details (overview anual) -->
+
+<!-- 1) Profile Details (overview anual) -->
 <p align="center">
   <img
     width="1000"
@@ -40,20 +41,19 @@ Crio pipelines, robôs e ferramentas internas para:
     alt="Profile Details"
   />
 </p>
-<!-- 1) GitHub Metrics (super dashboard) -->
+
+<!-- 2) GitHub Metrics (super dashboard) -->
 <p align="center">
   <img src="./metrics_renders/github-metrics.svg" alt="GitHub Metrics" />
 </p>
 
-<!-- 2) Snake (extra visual) -->
+<!-- 3) Snake (extra visual) -->
 <p align="center">
   <img
     src="https://raw.githubusercontent.com/renan-cesare/renan-cesare/output/github-contribution-grid-snake-dark.svg"
     alt="Snake Animation"
   />
 </p>
-
-
 
 <!-- 4) Contribution Graph (tendência por dia) -->
 <p align="center">
@@ -70,9 +70,15 @@ Crio pipelines, robôs e ferramentas internas para:
 
 <p align="center">
   <a href="https://www.linkedin.com/in/renan-paulo-de-cesare-6513a51bb/" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img
+      src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
   </a>
   <a href="mailto:renandecesare1@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img
+      src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Gmail"
+    />
   </a>
 </p>
