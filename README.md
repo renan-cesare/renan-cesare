@@ -64,14 +64,6 @@ Crio pipelines, robôs e ferramentas internas para:
   />
 </p>
 
-<!-- 5) Tech Stack Icons -->
-<p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=python,sqlite,github,vscode,windows&theme=dark"
-    alt="Tech Stack Icons"
-  />
-</p>
-
 ---
 
 ## 📫 Contato
