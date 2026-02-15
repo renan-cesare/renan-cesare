@@ -32,7 +32,14 @@ Crio pipelines, robôs e ferramentas internas para:
 ---
 
 ## 📊 Stack e atividade
-
+<!-- 3) Profile Details (overview anual) -->
+<p align="center">
+  <img
+    width="900"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=renan-cesare&theme=github_dark"
+    alt="Profile Details"
+  />
+</p>
 <!-- 1) GitHub Metrics (super dashboard) -->
 <p align="center">
   <img src="./metrics_renders/github-metrics.svg" alt="GitHub Metrics" />
@@ -46,19 +53,12 @@ Crio pipelines, robôs e ferramentas internas para:
   />
 </p>
 
-<!-- 3) Profile Details (overview anual) -->
-<p align="center">
-  <img
-    width="900"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=renan-cesare&theme=github_dark"
-    alt="Profile Details"
-  />
-</p>
+
 
 <!-- 4) Contribution Graph (tendência por dia) -->
 <p align="center">
   <img
-    width="1000"
+    width="900"
     src="https://github-readme-activity-graph.vercel.app/graph?username=renan-cesare&theme=github-dark&hide_border=true"
     alt="Contribution Graph"
   />
