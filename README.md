@@ -64,14 +64,6 @@ Crio pipelines, robôs e ferramentas internas para:
   />
 </p>
 
-<!-- 5) Streak -->
-<p align="center">
-  <img
-    width="1000"
-    src="https://streak-stats.demolab.com?user=renan-cesare&theme=github-dark&hide_border=true"
-    alt="GitHub Streak"
-  />
-</p>{
 
 
 <!-- 8) Tech Stack Icons -->
