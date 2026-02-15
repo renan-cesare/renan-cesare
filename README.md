@@ -13,12 +13,9 @@
 
 ## 👋 Sobre mim
 
-Trabalho no mercado financeiro (Middle Office / Risco & Compliance) e hoje sou responsável por automações, dados e sistemas internos da área.
+Trabalho no mercado financeiro com atuação em Middle Office, Risco e Compliance.
 
-Crio pipelines, robôs e ferramentas internas para:
-- Escalar processos operacionais
-- Reduzir trabalho manual
-- Aumentar controle, rastreabilidade e confiabilidade dos dados
+No dia a dia, desenvolvo automações, pipelines e ferramentas internas em Python para dar escala a rotinas operacionais, reduzir retrabalho e aumentar rastreabilidade, controle e confiabilidade dos dados.
 
 ---
 
